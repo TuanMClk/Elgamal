@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-TranAnhTuan_Nhom13_ElGamal",
+      "appliesTo": "TranAnhTuan_Nhom13_ElGamal.sln",
+      "type": "launch"
+    }
+  ]
+}

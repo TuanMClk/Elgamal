@@ -1,0 +1,2 @@
+Ghi file C# khong kho
+Ghi tung dong vao file cung de khong kem

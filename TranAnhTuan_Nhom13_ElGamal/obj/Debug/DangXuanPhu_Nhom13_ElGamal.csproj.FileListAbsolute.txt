@@ -1,0 +1,11 @@
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe.config
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\DangXuanPhu_Nhom13_ElGamal.csprojAssemblyReference.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Properties.Resources.resources
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\DangXuanPhu_Nhom13_ElGamal.csproj.GenerateResource.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\DangXuanPhu_Nhom13_ElGamal.csproj.CoreCompileInputs.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\DangXuanPhu_Nhom13_ElGamal.csproj.CopyComplete
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\DangXuanPhu_Nhom13_ElGamal.Form1.resources

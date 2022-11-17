@@ -1,0 +1,35 @@
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe.config
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\System.Numerics.Vectors.dll
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.AssemblyReference.cache
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Form1.resources
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Properties.Resources.resources
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.GenerateResource.cache
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CoreCompileInputs.cache
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CopyComplete
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\An toàn bảo mật\Baitaplon va baiktra\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe.config
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\bin\Debug\System.Numerics.Vectors.dll
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.AssemblyReference.cache
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Form1.resources
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Properties.Resources.resources
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.GenerateResource.cache
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CoreCompileInputs.cache
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CopyComplete
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\An Toan Bao Mat Thong Tin\BTL\TrungDung_Nhom4_ElGamal\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe.config
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\bin\Debug\TrungDung_Nhom4_ElGamal.pdb
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csprojAssemblyReference.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Form1.resources
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.Properties.Resources.resources
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.GenerateResource.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CoreCompileInputs.cache
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.csproj.CopyComplete
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.exe
+D:\bai tap\An Toan Bao Mat Thong Tin\BTL\DangXuanPhu\TrungDung_Nhom4_ElGamal\obj\Debug\TrungDung_Nhom4_ElGamal.pdb
